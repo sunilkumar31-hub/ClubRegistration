@@ -1,0 +1,35 @@
+#sz{
+    width: 225px;
+    height: 85px;
+    border: solid 5px black;
+    position: absolute;
+    top: 580px;
+    left: 26%;
+    background-color: #834fb4;
+    color: black;
+    font-size: 30px;
+    border-radius: 25%;
+}
+#fg{
+    width: 100px;
+    height: 30px;
+    color: black;
+    background-color: chartreuse;
+    box-shadow: 4px 5px 5px black,-4px -4px 5px black;
+    border: none;
+    border-radius: 35px;
+    font-size: 20px;
+}
+#mn{
+    color:greenyellow;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px greenyellow,-3px -0.5px 2px greenyellow;
+    
+
+}
+p{
+    text-align: justify;
+    text-indent: 120px;
+}

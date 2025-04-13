@@ -1,0 +1,242 @@
+body{
+    background-color: rgb(97, 150, 70);
+}
+#bg{
+    width: 500px;
+    height: 650px;
+    background-color:brown;
+}
+#img1{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+#img2{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 5px;
+}
+#ty{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.ui{
+    color: black;
+    font-size: 30px;
+}
+.fg{
+     color: black;
+     font-size: 30px;
+}
+#img3{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 320px;
+}
+#img4{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 10px;
+}
+#sz{
+    color: black;
+     font-size: 30px;
+     position: absolute;top: 475px;left: 12%;
+     border-bottom: black 2px solid;
+}
+#l1,#l2,#l3,#l4,#l5,#l6,#l7,#l8{
+    color: black;
+    font-size: 20px;
+}
+#l1{
+    position: absolute;top: 525px;left: 12.5%;
+}
+#l3{
+    position: absolute;top: 550px;left: 12.5%;
+}
+#l5{
+    position: absolute;top: 575px;left: 12.5%;
+}
+#l7{
+    position: absolute;top: 600px;left: 12.5%;
+}
+#l2{
+    position: absolute;top: 528px;left: 18.5%;
+}
+#l4{
+    position: absolute;top: 553px;left: 18.5%;
+}
+#l6{
+    position: absolute;top: 578px;left: 18.5%;
+}
+#l8{
+    position: absolute;top: 603px;left: 18.5%;
+}
+#l9{
+    position: absolute;top: 600px;left: 25.5%;
+    border: 2px solid black;
+    background-color: greenyellow;
+    color: orangered;
+    box-shadow: 5px 5px 5px black;
+    width: 60px;
+    height: 25px;
+    font-size: 20px;
+}
+#q1{
+    background-color: gold;
+    width: 500px;
+    height: 650px;
+    position: absolute;top: 1.5%;left: 34%;
+}
+#q2{
+    width: 150px;
+    height: 50px;
+    background-color:black;
+    color: red;
+    border: 2px solid white;
+    font-size: 70px;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 10px;
+}
+#q3{
+    background-color: black;color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    width: 350px;height: 50px;
+    border-radius: 15px;
+}
+#q4{
+    width: 150px;
+    height: 50px;
+    background-color:black;
+    color: red;
+    border: 2px solid white;
+    font-size: 50px;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 15px;
+    
+}
+#q5{
+    background-color: black;color: white;
+    font-size: 30px;
+    border: 2px solid white;
+    width: 150px;height: 50px;
+    border-radius: 15px;
+}
+#q6{
+    width: 60px;height: 25px;
+    border: 2px solid black;
+    color: orangered;
+    background-color: greenyellow;
+    box-shadow: 5px 5px 4px black;
+    position: absolute;top: 590px;left: 75%;
+    font-size: 20px;
+}
+#a1{
+    width: 480px;
+    height: 650px;
+    background-color:darkmagenta;
+    position: absolute;top: 1.5%;left: 1040px;
+}
+#a2{
+    font-size: 60px;
+    border-bottom: 5px solid black;
+}
+#a3{
+    font-size: 30px;
+    position: absolute;top: 15%;right: 125px;
+}
+sup{
+    position: absolute;top: 25%;right: 185px;
+    color:whitesmoke;
+}
+#a4{
+    font-size: 15px;
+    width: 75px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    position: absolute;top: 25%;right: 200px;
+}
+#a5{
+    font-size: 30px;
+    position: absolute;top: 35%;right: 125px;
+    text-decoration: underline 4px solid black;
+}
+#a6{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    position: absolute;top: 45%;right: 350px;
+
+}
+#a13{
+    width: 30%;
+    height: 20%;
+    position: absolute;top: 37%;right: 80px;
+    
+}
+#a7{
+    position: absolute;top: 47%;right: 305px; 
+}
+#a8{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    position: absolute;top: 57.5%;right: 350px;
+
+}
+#a14{
+    width: 30%;
+    height: 21%;
+    position: absolute;top: 50%;right: 80px;
+}
+#a9{
+    position: absolute;top: 59.5%;right: 305px; 
+}
+#a10{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    position: absolute;top: 70%;right: 350px;
+
+}
+#a11{
+    position: absolute;top: 72.5%;right: 305px; 
+}
+#a15{
+    width: 30%;
+    height: 20%;
+    position: absolute;top: 63%;right: 80px;
+}
+#a12{
+    width: 60px;height: 25px;
+    border: 2px solid black;
+    color: orangered;
+    background-color: greenyellow;
+    box-shadow: 5px 5px 4px black;
+    position: absolute;top: 590px;right: 30px;
+    font-size: 20px;
+}
+#lp{
+    text-transform: capitalize ;
+    width: 200px;height: 50px;
+    position: absolute;
+    top: 670px;right: 45%;
+    background-color:gold;
+    color:black;
+    font-size: 30px;
+    box-shadow: 4px 4px 2px rgb(220, 2, 194),-4px -4px 2px #c64a06;
+    border-radius: 20px;
+}

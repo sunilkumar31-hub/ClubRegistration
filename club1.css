@@ -1,0 +1,94 @@
+form{
+    width: 300px;
+    height: 250px;
+    
+}
+div{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    top: 30%;
+    left:50%;
+    background-image: url(../../assets/images/messi\ man.jpeg);
+    border-radius: 10%;
+    box-shadow: 20px 20px 15px black,-20px -20px 20px black;
+}
+body{
+    height: 688px;
+    width: 99%;
+    background-color: black;
+    background-image: url(../../assets/images/—Pngtree—football\ player\ with\ the\ ball_5819342.png);
+    background-size: 100% 100%;
+}
+#ti{
+    font-size: 50px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 0px;
+    right: 0%;
+}
+#reddy{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 229px;
+    left: 0px; 
+}
+h1{
+    color: aliceblue;
+}
+#logo{
+    position: absolute;
+    bottom:740px;
+    left: 20%;
+}
+#sun{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 0%;
+    right: 32%;
+}
+#ro{
+    color: whitesmoke;
+    position: absolute;
+    top: 580px;
+    left: 70%;
+    font-size: 75px;
+}
+input{
+    border: black 2px solid;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px orange,-0px -5px 3px orange;
+}
+#ft{
+    width: 950px;
+    height: 800px;
+    position: absolute;
+    right: 200px;
+    top: -290px;
+    transition: all 2s;
+}
+form:hover~#ft{
+    width: 250px;
+    height: 250px;
+    transform: translate(125px,50px);
+
+}
+#ft1{
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    top: -90%;
+    right: -450px;
+    transition: all 2s;
+}
+form:hover~#ft1{
+    width: 250px;
+    height: 250px;
+    transform: translate(15px,40px);
+
+}
